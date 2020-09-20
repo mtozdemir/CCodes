@@ -1,0 +1,36 @@
+takma_isim=A	isim=aaaaaaaaspor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=B	isim=bbbbbbbbspor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=C	isim=cccccccccspor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=D	isim=ddddddddspor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=E	isim=eeeeeeeespor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=F	isim=ffffffffspor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=G	isim=ggggggggspor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=H	isim=hhhhhhhhspor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=I	isim=iiiiiiiispor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+takma_isim=J	isim=jjjjjjjjspor	  oynanan_mac=0	galibiyet=0	beraberlik=0	maglubiyet=0	atilan_gol=0	yenen_gol=0	averaj=0	  puan=0
+
+
+A3 B2 
+if(atilan_gol>yenen_gol) // okudugun stringi diziye ata ve dizideki integer(skor degerleri)ları kıyasla 
+
+{
+takimA,takimB.oynanan_mac++; // 1 1
+takimA.galibiyet++; // 1
+takimB.maglubiyet++; // 1
+takimA.puan+=2; // 2
+takimB.puan-=1; // -1
+takimA.atilan_gol && takimB.yenen_gol=atilan_gol; // 3 3
+takimA.yenen_gol && takimB.atilan_gol=yenen_gol; // 2 2
+averaj=atilan_gol-yenen_gol; // 1
+takimA.averaj=averaj; // 1
+takimB.averaj=-averaj; //-1
+
+
+}
+
+else if(atilan_gol !=0 && atilan_gol==yenen_gol) {
+takimA.beraberlik , takimB.beraberlik++;
+takimA,takimB.oynanan_mac++;
+takimA.puan++;
+takimB.puan1++;
+}

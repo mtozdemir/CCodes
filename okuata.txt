@@ -1,0 +1,11 @@
+char d,dizii[12],diziii;
+    int i,j=0;
+        while(i!='\n'){
+           /* j= fscanf(fp,"%s",dizii);
+            printf("%s\n",dizii);*/
+            fscanf(fp,"%c",&diziii);
+                dizii[i] = diziii ;
+                    takim[0].isim[i]=dizii[i];
+                    i++;
+                }printf("%s\n",dizii);
+//NEWLINE A KADAR OKU DIZIYE ATA

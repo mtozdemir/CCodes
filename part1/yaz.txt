@@ -1,0 +1,24 @@
+ 2018-2019 Programlamaya Giris Lig Tablosu 
+
+**************************************************************************************
+
+T.Isim       Isim		O_M     G       M        B       A_Gol       Y_Gol          Averaj       Puan
+
+
+******       ****		***      **      **       **      *****       *****         ******       ****
+
+F	ugursporxx	 3        2        0        1           5              2	        3            5
+A	IDMANGUCU	 5        2        2        1           10              8	        2            3
+C	kasimpasa	 2        1        0        1           2              1	        1            3
+D	sebatsporx	 2        1        0        1           3              2	        1            3
+H	gencbelediye	 2        1        0        1           5              4	        1            3
+I	ofsporxxxx	 2        1        0        1           1              0	        1            3
+K	yozgatspor	 1        1        0        0           4              2	        2            2
+L	divrigispor	 3        1        1        1           4              5	        -1            2
+J	mackaspor	 2        1        1        0           2              2	        0            1
+M	kekosporxx	 0        0        0        0           0              0	        0            0
+N	aydinspor	 0        0        0        0           0              0	        0            0
+O	torbaspor	 0        0        0        0           0              0	        0            0
+B	idmanocagi	 6        1        4        1           7              12	        -5            -1
+E	yelkenciler	 2        0        2        0           3              6	        -3            -2
+G	takasporxx	 2        0        2        0           4              6	        -2            -2

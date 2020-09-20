@@ -1,0 +1,2 @@
+yenı fonksıyon olustur dızıyı alsın parse etsın gerıye skor degerlerını dondursun 
+lıg tablosu fonksıyonu da onları alsın tabloyu olustursun

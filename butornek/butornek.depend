@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560802996 source:c:\users\m_tah\desktop\ccodes\butornek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+

@@ -1,0 +1,4 @@
+
+ averaj :3
+ galibiyet sayisi=1
+ atilan gol sayisi=3

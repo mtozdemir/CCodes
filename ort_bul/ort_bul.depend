@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553873263 source:c:\users\m_tah\desktop\ccodes\ort_bul\main.c
+	<stdio.h>
+	<stdlib.h>
+

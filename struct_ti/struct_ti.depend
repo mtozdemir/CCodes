@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552593170 source:c:\users\m_tah\desktop\ccodes\struct_ti\main.c
+	<stdio.h>
+	<stdlib.h>
+
